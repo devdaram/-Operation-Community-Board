@@ -24,5 +24,3 @@
 </h4>
 <img width="1198" alt="image" src="https://github.com/user-attachments/assets/7f35197e-d2ce-499b-9f2a-859f64bc473f">
 
-<h4>실제 commit 했던 내역 중 일부를 발췌하였습니다.</h4>
-<img width="1194" alt="image" src="https://github.com/user-attachments/assets/2ab1063e-2ea4-45ea-893c-9cd44724539c">
